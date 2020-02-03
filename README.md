@@ -9,3 +9,5 @@ I hope this isn't causing much issues
 ###Conflict Conditions
 This is bound to cause conflicts
 >>>>>>> conflict-brch
+
+Working on resets
